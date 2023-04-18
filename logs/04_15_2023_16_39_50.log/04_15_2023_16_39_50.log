@@ -1,0 +1,22 @@
+[ 2023-04-15 16:39:54,866 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-15 16:39:55,591 ] 224 werkzeug - INFO -  * Debugger PIN: 352-227-936
+[ 2023-04-15 16:42:23,260 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:42:23] "GET / HTTP/1.1" 200 -
+[ 2023-04-15 16:42:28,286 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:42:28] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-04-15 16:42:28,765 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:42:28] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:42:28,822 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:42:28] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:42:29,110 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:42:29] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:43:13,737 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:43:13] "GET / HTTP/1.1" 200 -
+[ 2023-04-16 01:47:44,189 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:44,751 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:44] "[36mGET /static/img1.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:45,548 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:45] "[36mGET /static/img2.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:47,361 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:47] "[36mGET /static/img3.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:47,361 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:47] "[36mGET /static/img5.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:47,369 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:47] "[36mGET /static/img8.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:47,409 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:47] "[36mGET /static/img6.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:47,577 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:47] "[36mGET /static/img7.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:47,633 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:47] "[36mGET /static/img4.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:47:56,290 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:47:56] "[33mGET /static/ipl-favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-16 01:56:45,993 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:56:45] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-04-16 01:56:47,213 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:56:47] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:56:47,214 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:56:47] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-04-16 01:56:48,975 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 01:56:48] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

@@ -1,0 +1,14 @@
+[ 2023-04-16 14:25:37,818 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-16 14:25:38,697 ] 224 werkzeug - INFO -  * Debugger PIN: 352-227-936
+[ 2023-04-16 14:35:02,663 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:02] "GET / HTTP/1.1" 200 -
+[ 2023-04-16 14:35:03,234 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:03] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2023-04-16 14:35:05,132 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:05] "GET /static/img1.jpg HTTP/1.1" 200 -
+[ 2023-04-16 14:35:05,683 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:05] "GET /static/img2.jpg HTTP/1.1" 200 -
+[ 2023-04-16 14:35:06,545 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:06] "GET /static/img4.jpg HTTP/1.1" 200 -
+[ 2023-04-16 14:35:06,556 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:06] "GET /static/img3.jpg HTTP/1.1" 200 -
+[ 2023-04-16 14:35:06,571 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:06] "GET /static/img6.jpg HTTP/1.1" 200 -
+[ 2023-04-16 14:35:06,731 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:06] "GET /static/img5.jpg HTTP/1.1" 200 -
+[ 2023-04-16 14:35:06,971 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:06] "GET /static/img8.jpg HTTP/1.1" 200 -
+[ 2023-04-16 14:35:06,986 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:06] "GET /static/img7.jpg HTTP/1.1" 200 -
+[ 2023-04-16 14:35:08,586 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:08] "[33mGET /static/ipl-favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-16 14:35:09,289 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Apr/2023 14:35:09] "[33mGET /static/ipl-favicon.ico HTTP/1.1[0m" 404 -

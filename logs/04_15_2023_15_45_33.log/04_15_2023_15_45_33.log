@@ -1,0 +1,45 @@
+[ 2023-04-15 15:45:33,933 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-15 15:45:34,520 ] 224 werkzeug - INFO -  * Debugger PIN: 352-227-936
+[ 2023-04-15 15:59:07,135 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:07] "GET / HTTP/1.1" 200 -
+[ 2023-04-15 15:59:07,069 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:06] "GET / HTTP/1.1" 200 -
+[ 2023-04-15 15:59:07,093 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:06] "GET / HTTP/1.1" 200 -
+[ 2023-04-15 15:59:13,327 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:15,366 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:15] "[36mGET /static/img1.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:15,369 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:15] "[36mGET /static/img2.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:16,504 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:16] "[36mGET /static/img3.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:16,626 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:16] "[36mGET /static/img5.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:16,634 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:16] "[36mGET /static/img6.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:16,646 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:16] "[36mGET /static/img4.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:16,737 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:16] "[36mGET /static/img7.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:16,917 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:16] "[36mGET /static/img8.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 15:59:25,952 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:25] "[33mGET /static/ipl-favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-15 15:59:26,696 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 15:59:26] "[33mGET /static/ipl-favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-15 16:06:48,898 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:48] "GET / HTTP/1.1" 200 -
+[ 2023-04-15 16:06:49,721 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:51,205 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:51] "[36mGET /static/img3.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:51,213 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:51] "[36mGET /static/img5.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:51,373 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:51] "[36mGET /static/img2.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:51,405 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:51] "[36mGET /static/img6.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:51,405 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:51] "[36mGET /static/img4.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:51,405 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:51] "[36mGET /static/img1.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:51,445 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:51] "[36mGET /static/img7.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:51,485 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:51] "[36mGET /static/img8.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:06:54,393 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:54] "[33mGET /static/ipl-favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-15 16:06:56,156 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:06:56] "[33mGET /static/ipl-favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-15 16:10:56,121 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:10:56] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-04-15 16:10:58,580 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:10:58] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:11:00,924 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:11:00] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:11:03,080 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:11:03] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:11:03,728 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:11:03] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:08,526 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:08] "GET / HTTP/1.1" 200 -
+[ 2023-04-15 16:36:08,724 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:08,940 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:08] "[36mGET /static/img1.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:09,095 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:09] "[36mGET /static/img2.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:09,160 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:09] "[36mGET /static/img3.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:09,349 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:09] "[36mGET /static/img4.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:09,357 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:09] "[36mGET /static/img5.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:09,489 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:09] "[36mGET /static/img6.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:09,631 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:09] "[36mGET /static/img7.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:36:09,636 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:09] "[33mGET /static/ipl-favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-04-15 16:36:09,638 ] 224 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2023 16:36:09] "[36mGET /static/img8.jpg HTTP/1.1[0m" 304 -
+[ 2023-04-15 16:37:00,122 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Tunde\\Desktop\\Python_Pratctise\\Capstone Projects\\Student-Performance-Regression\\app.py', reloading
